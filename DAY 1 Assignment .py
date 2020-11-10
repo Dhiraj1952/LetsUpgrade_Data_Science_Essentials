@@ -15,7 +15,7 @@ elif SP<CP:
 else:
     print("Neither")
 
-#Question 3
+#Question 4
 
 Euro=int(input())
 Con=Euro*80
